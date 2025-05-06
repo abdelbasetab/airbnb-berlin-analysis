@@ -8,5 +8,5 @@ Dieses Projekt untersucht Airbnb-Angebote in Berlin mithilfe von Python, Pandas 
 - Visualisierungen mit Matplotlib & Seaborn
 
 ## 📁 Struktur
-- `data/`: CSV-Datei (nicht im Repo enthalten)
+- `data/`: CSV-Datei 
 - `notebooks/`: Jupyter Notebook mit Analyse
