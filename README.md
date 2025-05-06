@@ -9,12 +9,14 @@ Dieses Projekt untersucht Airbnb-Angebote in Berlin mithilfe von Python, Pandas 
 - Korrelationen zwischen Preis, Verfügbarkeit und Bewertungen
 
 ## 📁 Struktur
+```
 airbnb-berlin-analysis/
 ├── data/ # CSV-Dateien (nicht im Repo enthalten)
 ├── notebooks/
 │ └── 01_explorative_analyse.ipynb
 ├── README.md
-└── .gitignore
+└── .gitignore '''
+```
 
 ## 📁 Datenquelle
 
