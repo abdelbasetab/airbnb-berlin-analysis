@@ -1,0 +1,13 @@
+# Verzeichnisse
+__pycache__/
+.ipynb_checkpoints/
+
+# Daten
+*.csv
+*.gz
+
+
+
+# Sonstiges
+.DS_Store
+.env
